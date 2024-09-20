@@ -1,0 +1,501 @@
+Name,Event Name,Amount Spent,Drink Name,Date,Age,Gender,Time of Visit,Drink Size,Payment Method
+Benjamin Walker,Soccer Event,$65,Lager,2024-11-27,25,Male,7:17 PM,Large,Debit Card
+Sebastian Hughes,Christmas,$56,Mulled Wine,2024-12-06,29,Male,7:04 PM,Small,Credit Card
+David Brown,Christmas,$61,Whiskey Sour,2024-11-17,45,Male,8:41 PM,Large,Debit Card
+Sean Foster,Soccer Event,$76,Hot Toddy,2024-12-18,23,Female,10:18 AM,Medium,Debit Card
+Jonathan Jenkins,Soccer Event,$62,Pilsner,2024-11-10,22,Male,10:35 AM,Medium,Credit Card
+Joshua Nelson,Halloween,$34,Eggnog,2024-11-09,36,Female,9:39 AM,Large,Mobile Payment
+Alex Johnson,Christmas,$69,Hot Toddy,2024-12-07,40,Female,9:41 PM,Large,Credit Card
+Christopher Torres,Soccer Event,$47,Whiskey Sour,2024-12-12,35,Female,7:10 PM,Small,Debit Card
+Luke Wright,Soccer Event,$90,Old Fashioned,2024-11-19,32,Male,11:58 PM,Medium,Cash
+David Brown,Halloween,$53,Bloody Mary,2024-12-11,45,Male,5:26 PM,Small,Cash
+Liam Adams,Soccer Event,$48,Whiskey Sour,2024-12-14,24,Female,6:48 AM,Large,Cash
+Paul King,Soccer Event,$48,Whiskey Sour,2024-11-23,32,Male,11:14 AM,Large,Debit Card
+Dylan Roberts,Soccer Event,$28,Old Fashioned,2024-12-09,24,Male,8:16 AM,Medium,Mobile Payment
+Joshua Nelson,Christmas,$59,Mulled Wine,2024-11-02,23,Female,8:00 PM,Small,Debit Card
+Alex Johnson,Halloween,$83,Mulled Wine,2024-12-19,36,Female,6:01 AM,Medium,Mobile Payment
+Oliver Stewart,Soccer Event,$55,Old Fashioned,2024-11-09,32,Male,5:04 AM,Small,Cash
+Adam Thompson,Halloween,$60,Whiskey Sour,2024-12-12,36,Male,7:03 PM,Small,Debit Card
+Jack Baker,Christmas,$92,Whiskey Sour,2024-11-30,41,Female,10:50 AM,Large,Cash
+Justin Moore,Soccer Event,$29,IPA,2024-11-27,42,Female,5:29 PM,Medium,Mobile Payment
+Mark Scott,Christmas,$48,Pilsner,2024-11-27,21,Male,9:29 PM,Large,Debit Card
+Samuel Allen,Halloween,$81,IPA,2024-11-12,28,Female,5:48 AM,Small,Cash
+Ryan Davis,Halloween,$91,Eggnog,2024-11-28,23,Female,8:09 AM,Small,Mobile Payment
+Thomas Morris,Soccer Event,$70,Whiskey Sour,2024-12-24,21,Female,9:33 AM,Large,Mobile Payment
+Chris Evans,Halloween,$28,Eggnog,2024-11-26,24,Male,7:37 PM,Small,Credit Card
+Joseph Hill,Soccer Event,$32,Bloody Mary,2024-12-24,38,Male,6:07 PM,Large,Cash
+Andrew Young,Halloween,$43,Hot Toddy,2024-11-19,44,Male,7:58 PM,Small,Debit Card
+Chris Evans,Christmas,$49,Hot Toddy,2024-12-22,43,Male,11:03 AM,Small,Mobile Payment
+Charles Reed,Christmas,$97,Pilsner,2024-11-17,23,Male,10:08 PM,Small,Debit Card
+Charles Reed,Soccer Event,$98,Bloody Mary,2024-11-22,35,Male,10:47 PM,Large,Credit Card
+Jacob Thomas,Halloween,$69,Hot Toddy,2024-11-23,40,Male,10:45 PM,Medium,Cash
+Evan Powell,Christmas,$35,Mulled Wine,2024-12-14,24,Female,9:25 AM,Medium,Cash
+Sean Foster,Halloween,$60,IPA,2024-12-06,33,Male,9:04 PM,Large,Debit Card
+Steven Gray,Halloween,$39,Margarita,2024-12-21,21,Male,7:36 PM,Small,Credit Card
+Anthony Morgan,Christmas,$59,Eggnog,2024-11-03,41,Male,8:23 PM,Large,Debit Card
+Sean Foster,Soccer Event,$40,Whiskey Sour,2024-12-13,27,Male,6:40 AM,Small,Credit Card
+Nathan Brooks,Christmas,$21,IPA,2024-12-14,31,Male,7:58 AM,Small,Debit Card
+Tyler Ward,Soccer Event,$64,Lager,2024-12-12,38,Female,6:59 AM,Small,Mobile Payment
+Kevin White,Halloween,$89,Pilsner,2024-11-06,22,Male,11:53 AM,Small,Credit Card
+Andrew Young,Soccer Event,$42,Whiskey Sour,2024-12-06,25,Male,11:52 PM,Small,Debit Card
+Oliver Stewart,Christmas,$60,Hot Toddy,2024-12-02,42,Male,6:49 PM,Small,Debit Card
+Nicholas Russell,Halloween,$32,Bloody Mary,2024-11-28,27,Female,8:06 PM,Small,Debit Card
+Zachary Mitchell,Halloween,$63,Old Fashioned,2024-12-03,35,Male,7:58 PM,Large,Cash
+Ryan Davis,Christmas,$40,Mulled Wine,2024-12-24,32,Male,6:40 AM,Small,Credit Card
+Michael Lee,Christmas,$27,Whiskey Sour,2024-11-09,30,Male,6:59 PM,Medium,Debit Card
+Michael Lee,Christmas,$73,Lager,2024-12-16,34,Male,5:01 AM,Large,Credit Card
+Patrick Rogers,Christmas,$99,IPA,2024-12-08,42,Female,7:20 PM,Medium,Cash
+Benjamin Walker,Halloween,$88,Old Fashioned,2024-12-13,35,Male,7:58 PM,Medium,Credit Card
+Jason Clark,Soccer Event,$36,Mulled Wine,2024-11-15,41,Male,9:31 PM,Small,Credit Card
+Steven Gray,Halloween,$41,Margarita,2024-11-20,21,Female,11:36 AM,Large,Cash
+Paul King,Christmas,$96,Lager,2024-12-06,44,Female,10:34 PM,Small,Cash
+Charles Reed,Christmas,$100,Eggnog,2024-12-02,32,Male,11:09 PM,Large,Debit Card
+Andrew Young,Halloween,$86,Mulled Wine,2024-11-19,21,Male,11:15 AM,Large,Mobile Payment
+Christopher Torres,Halloween,$66,Eggnog,2024-12-05,28,Male,8:33 AM,Medium,Cash
+John Smith,Halloween,$54,Whiskey Sour,2024-12-10,45,Female,11:07 PM,Medium,Credit Card
+Ryan Davis,Christmas,$54,Hot Toddy,2024-11-22,43,Male,5:50 AM,Large,Mobile Payment
+Ethan Green,Soccer Event,$46,Hot Toddy,2024-11-21,21,Female,9:23 AM,Medium,Credit Card
+Mark Scott,Soccer Event,$85,Hot Toddy,2024-12-19,24,Male,7:12 AM,Large,Mobile Payment
+Mark Scott,Soccer Event,$20,Old Fashioned,2024-11-13,45,Male,10:56 PM,Large,Cash
+Liam Adams,Christmas,$75,Whiskey Sour,2024-12-16,21,Female,10:59 AM,Small,Debit Card
+Thomas Morris,Soccer Event,$51,Hot Toddy,2024-11-24,37,Male,9:41 PM,Small,Credit Card
+Jonathan Jenkins,Halloween,$55,Old Fashioned,2024-12-06,30,Female,7:40 PM,Medium,Mobile Payment
+Ryan Davis,Halloween,$69,Mulled Wine,2024-12-03,23,Female,6:34 AM,Small,Cash
+Evan Powell,Christmas,$29,Margarita,2024-12-16,34,Female,7:29 PM,Medium,Cash
+Alexander Ramirez,Soccer Event,$85,Old Fashioned,2024-12-11,24,Male,11:36 AM,Small,Debit Card
+Oliver Stewart,Christmas,$56,Margarita,2024-12-05,33,Male,9:42 AM,Medium,Debit Card
+Aaron Richardson,Christmas,$28,Old Fashioned,2024-12-05,25,Female,8:25 PM,Small,Cash
+Aaron Richardson,Halloween,$28,Mulled Wine,2024-11-09,28,Male,8:16 AM,Medium,Cash
+Patrick Rogers,Christmas,$99,IPA,2024-12-21,33,Female,5:00 AM,Large,Mobile Payment
+Mark Scott,Christmas,$59,Margarita,2024-11-02,41,Male,5:59 AM,Small,Cash
+Christopher Torres,Soccer Event,$77,Pilsner,2024-11-10,23,Male,11:46 PM,Medium,Credit Card
+Andrew Young,Christmas,$76,Pilsner,2024-11-01,26,Female,5:05 PM,Small,Credit Card
+Ryan Davis,Soccer Event,$80,Hot Toddy,2024-12-07,30,Female,9:55 PM,Small,Cash
+Anthony Morgan,Halloween,$71,Eggnog,2024-11-20,30,Male,10:21 AM,Small,Cash
+William Cox,Halloween,$50,Eggnog,2024-11-06,25,Female,6:24 PM,Small,Debit Card
+Robert Wilson,Christmas,$61,Eggnog,2024-12-09,38,Female,11:52 PM,Medium,Cash
+Jonathan Jenkins,Halloween,$83,Mulled Wine,2024-12-10,37,Male,11:47 PM,Medium,Debit Card
+Jacob Thomas,Soccer Event,$38,Lager,2024-12-19,26,Male,6:32 AM,Medium,Mobile Payment
+John Smith,Soccer Event,$57,Whiskey Sour,2024-10-31,41,Male,6:21 PM,Medium,Cash
+Henry Perez,Christmas,$27,Pilsner,2024-11-11,36,Female,7:43 AM,Large,Debit Card
+John Smith,Halloween,$23,Lager,2024-11-29,40,Female,6:24 PM,Large,Cash
+Justin Moore,Soccer Event,$22,Eggnog,2024-12-02,39,Male,9:53 AM,Large,Credit Card
+Ryan Davis,Soccer Event,$60,IPA,2024-11-15,39,Male,7:17 PM,Medium,Debit Card
+Oliver Stewart,Halloween,$56,Mulled Wine,2024-11-06,30,Female,10:40 AM,Small,Cash
+Zachary Mitchell,Christmas,$36,Lager,2024-11-11,36,Male,10:14 AM,Medium,Mobile Payment
+Michael Lee,Christmas,$75,Hot Toddy,2024-12-23,25,Male,10:46 AM,Small,Cash
+Kevin White,Halloween,$72,Mulled Wine,2024-11-07,24,Female,9:28 AM,Large,Mobile Payment
+Jacob Thomas,Soccer Event,$68,Whiskey Sour,2024-12-03,43,Male,7:05 AM,Medium,Debit Card
+Gabriel Parker,Christmas,$27,Margarita,2024-11-21,40,Female,10:56 AM,Medium,Debit Card
+Alex Johnson,Soccer Event,$83,IPA,2024-11-06,26,Female,6:33 PM,Small,Mobile Payment
+Chris Evans,Halloween,$59,Eggnog,2024-12-05,28,Male,9:49 PM,Large,Debit Card
+Charles Reed,Soccer Event,$81,Pilsner,2024-11-06,40,Female,7:38 AM,Large,Cash
+Charles Reed,Halloween,$55,Mulled Wine,2024-12-18,44,Male,8:09 PM,Large,Credit Card
+Liam Adams,Christmas,$81,Mulled Wine,2024-11-13,28,Female,11:51 PM,Medium,Mobile Payment
+Hunter Carter,Soccer Event,$78,IPA,2024-11-15,32,Female,6:21 AM,Medium,Credit Card
+Robert Wilson,Christmas,$52,Margarita,2024-12-03,36,Female,9:47 AM,Medium,Credit Card
+Justin Moore,Soccer Event,$28,Whiskey Sour,2024-11-03,44,Female,10:45 AM,Small,Cash
+Sebastian Hughes,Christmas,$82,Bloody Mary,2024-11-03,35,Male,7:56 PM,Medium,Credit Card
+Daniel Miller,Christmas,$100,Pilsner,2024-11-13,43,Male,7:29 AM,Medium,Credit Card
+Michael Lee,Soccer Event,$97,Old Fashioned,2024-12-18,27,Female,10:43 PM,Small,Debit Card
+Zachary Mitchell,Soccer Event,$68,Mulled Wine,2024-11-08,37,Female,5:10 AM,Small,Debit Card
+Jacob Thomas,Halloween,$91,Lager,2024-11-07,29,Male,9:23 PM,Medium,Cash
+Jonathan Jenkins,Christmas,$52,Mulled Wine,2024-11-15,22,Female,8:27 PM,Large,Debit Card
+Liam Adams,Christmas,$93,Old Fashioned,2024-12-11,21,Male,11:21 PM,Medium,Mobile Payment
+Steven Gray,Christmas,$56,Margarita,2024-12-18,32,Female,5:09 PM,Medium,Mobile Payment
+Oliver Stewart,Christmas,$55,Eggnog,2024-11-22,41,Male,5:19 AM,Large,Credit Card
+Mark Scott,Christmas,$20,Mulled Wine,2024-11-12,21,Female,5:07 AM,Large,Credit Card
+Evan Powell,Halloween,$63,Mulled Wine,2024-11-27,44,Female,10:51 PM,Large,Credit Card
+Dylan Roberts,Halloween,$32,Old Fashioned,2024-11-19,43,Male,10:28 PM,Large,Credit Card
+Joseph Hill,Soccer Event,$70,Eggnog,2024-12-06,35,Male,5:17 AM,Small,Cash
+James Taylor,Soccer Event,$37,Old Fashioned,2024-11-24,45,Male,7:23 AM,Medium,Mobile Payment
+Jack Baker,Christmas,$88,Old Fashioned,2024-11-23,24,Female,8:21 AM,Medium,Debit Card
+Henry Perez,Halloween,$62,Pilsner,2024-11-17,40,Male,10:08 PM,Medium,Credit Card
+Benjamin Walker,Soccer Event,$24,Mulled Wine,2024-11-17,38,Male,5:56 PM,Small,Debit Card
+Thomas Morris,Christmas,$95,IPA,2024-12-25,28,Male,6:02 AM,Small,Mobile Payment
+Samuel Allen,Christmas,$76,Whiskey Sour,2024-12-06,29,Female,10:05 AM,Large,Cash
+William Cox,Christmas,$33,Pilsner,2024-11-06,33,Female,10:40 AM,Medium,Cash
+Jack Baker,Christmas,$78,Whiskey Sour,2024-12-17,23,Female,7:10 PM,Large,Debit Card
+Liam Adams,Halloween,$66,Mulled Wine,2024-12-12,27,Female,9:10 PM,Small,Debit Card
+Christopher Torres,Soccer Event,$68,Eggnog,2024-12-17,36,Female,6:12 AM,Large,Debit Card
+Robert Wilson,Halloween,$23,Whiskey Sour,2024-11-10,31,Female,9:03 PM,Large,Debit Card
+Hunter Carter,Soccer Event,$61,Hot Toddy,2024-11-12,25,Male,8:02 AM,Large,Mobile Payment
+Gabriel Parker,Soccer Event,$57,Eggnog,2024-12-01,27,Male,5:44 AM,Small,Credit Card
+Isaac Turner,Soccer Event,$83,Pilsner,2024-12-24,38,Female,11:41 PM,Large,Mobile Payment
+John Smith,Soccer Event,$71,Margarita,2024-12-15,44,Male,10:11 AM,Medium,Mobile Payment
+Nathan Brooks,Soccer Event,$84,Hot Toddy,2024-11-04,30,Male,6:24 AM,Small,Mobile Payment
+Oliver Stewart,Halloween,$76,Bloody Mary,2024-12-09,31,Female,8:01 AM,Medium,Mobile Payment
+Liam Adams,Christmas,$80,Whiskey Sour,2024-11-06,38,Female,11:13 AM,Medium,Mobile Payment
+Ethan Green,Soccer Event,$50,Hot Toddy,2024-12-08,32,Male,7:23 PM,Small,Cash
+Michael Lee,Christmas,$100,IPA,2024-12-13,27,Male,11:28 AM,Medium,Credit Card
+Justin Moore,Halloween,$93,Bloody Mary,2024-11-05,42,Male,8:24 AM,Small,Debit Card
+Nicholas Russell,Christmas,$56,Hot Toddy,2024-11-06,27,Female,11:47 AM,Small,Debit Card
+Joshua Nelson,Halloween,$35,Whiskey Sour,2024-11-30,36,Female,11:58 PM,Small,Credit Card
+Alexander Ramirez,Halloween,$70,Whiskey Sour,2024-12-04,33,Female,9:07 PM,Medium,Credit Card
+Nathan Brooks,Soccer Event,$97,Lager,2024-11-14,44,Male,8:30 PM,Large,Cash
+Steven Gray,Christmas,$58,IPA,2024-11-23,23,Male,8:48 PM,Small,Mobile Payment
+Matthew Harris,Christmas,$39,Hot Toddy,2024-12-11,24,Male,11:33 AM,Medium,Credit Card
+Christopher Torres,Christmas,$65,Eggnog,2024-12-12,27,Male,9:51 AM,Large,Debit Card
+Tyler Ward,Halloween,$85,Bloody Mary,2024-12-24,44,Male,6:06 PM,Medium,Debit Card
+Jonathan Jenkins,Soccer Event,$64,Lager,2024-11-23,31,Female,11:15 PM,Small,Debit Card
+Oliver Stewart,Christmas,$88,Margarita,2024-11-26,35,Male,7:24 PM,Medium,Debit Card
+Christopher Torres,Halloween,$25,Whiskey Sour,2024-11-24,31,Male,6:57 AM,Large,Mobile Payment
+James Taylor,Christmas,$82,IPA,2024-11-25,24,Male,11:13 AM,Small,Debit Card
+Samuel Allen,Christmas,$71,Bloody Mary,2024-11-28,26,Male,6:03 AM,Small,Debit Card
+Jason Clark,Soccer Event,$32,Hot Toddy,2024-12-05,43,Female,9:35 AM,Small,Debit Card
+Mark Scott,Halloween,$63,Lager,2024-12-15,30,Male,10:02 AM,Large,Credit Card
+Nicholas Russell,Soccer Event,$31,Mulled Wine,2024-11-27,33,Female,11:11 AM,Medium,Debit Card
+John Smith,Christmas,$84,Bloody Mary,2024-11-20,45,Male,9:01 AM,Small,Debit Card
+Charles Reed,Soccer Event,$27,Hot Toddy,2024-12-10,21,Male,9:42 AM,Large,Credit Card
+Daniel Miller,Halloween,$98,Mulled Wine,2024-12-15,33,Female,7:35 PM,Small,Credit Card
+Chris Evans,Christmas,$44,Lager,2024-12-09,44,Male,7:13 AM,Small,Debit Card
+Evan Powell,Soccer Event,$43,Margarita,2024-12-20,28,Male,9:17 AM,Medium,Mobile Payment
+Henry Perez,Soccer Event,$21,Mulled Wine,2024-12-13,36,Female,10:56 PM,Small,Credit Card
+John Smith,Christmas,$94,Margarita,2024-12-17,26,Male,7:16 PM,Medium,Credit Card
+Samuel Allen,Halloween,$75,Mulled Wine,2024-11-21,34,Female,10:14 PM,Large,Cash
+Thomas Morris,Halloween,$74,Lager,2024-12-14,31,Female,6:04 AM,Small,Cash
+Jacob Thomas,Halloween,$60,Mulled Wine,2024-11-11,39,Female,5:01 PM,Medium,Debit Card
+Ryan Davis,Soccer Event,$37,Whiskey Sour,2024-11-11,21,Male,6:22 AM,Small,Debit Card
+Dylan Roberts,Christmas,$97,Lager,2024-11-18,38,Female,9:32 AM,Small,Credit Card
+Jacob Thomas,Soccer Event,$40,Eggnog,2024-11-15,40,Female,5:44 PM,Small,Credit Card
+Daniel Miller,Soccer Event,$70,Mulled Wine,2024-12-22,26,Female,11:58 PM,Large,Mobile Payment
+Thomas Morris,Christmas,$68,Bloody Mary,2024-11-21,21,Female,7:56 PM,Medium,Mobile Payment
+Charles Reed,Christmas,$35,Hot Toddy,2024-12-04,32,Male,5:18 AM,Small,Cash
+Liam Adams,Christmas,$32,Pilsner,2024-10-31,45,Male,5:24 AM,Small,Debit Card
+Steven Gray,Christmas,$73,IPA,2024-11-25,30,Male,5:02 AM,Large,Credit Card
+Henry Perez,Soccer Event,$48,Pilsner,2024-11-04,21,Male,10:05 PM,Large,Cash
+Zachary Mitchell,Soccer Event,$54,Lager,2024-12-18,38,Female,6:04 AM,Large,Mobile Payment
+Charles Reed,Halloween,$50,Lager,2024-12-15,21,Female,6:23 PM,Small,Cash
+Zachary Mitchell,Christmas,$34,Hot Toddy,2024-12-16,31,Male,8:36 PM,Large,Cash
+Sean Foster,Halloween,$40,Pilsner,2024-12-23,27,Female,6:25 AM,Medium,Mobile Payment
+Sean Foster,Soccer Event,$23,Bloody Mary,2024-11-13,32,Female,11:14 PM,Large,Cash
+Chris Evans,Soccer Event,$71,Whiskey Sour,2024-11-29,38,Female,5:52 AM,Medium,Credit Card
+Mark Scott,Christmas,$54,Pilsner,2024-12-11,27,Female,9:14 AM,Medium,Cash
+Jack Baker,Christmas,$51,Mulled Wine,2024-11-01,32,Female,5:04 PM,Large,Cash
+Thomas Morris,Christmas,$32,Hot Toddy,2024-12-06,37,Female,6:12 AM,Large,Debit Card
+Nicholas Russell,Soccer Event,$64,Old Fashioned,2024-12-14,31,Male,9:50 PM,Large,Debit Card
+Steven Gray,Christmas,$99,IPA,2024-12-10,29,Male,8:11 PM,Small,Credit Card
+Jack Baker,Halloween,$90,Old Fashioned,2024-12-12,34,Male,7:40 AM,Large,Credit Card
+Sean Foster,Halloween,$87,Lager,2024-12-10,31,Female,8:08 PM,Small,Credit Card
+Joshua Nelson,Soccer Event,$52,Margarita,2024-12-17,28,Male,7:52 AM,Medium,Mobile Payment
+Dylan Roberts,Christmas,$42,Whiskey Sour,2024-11-01,25,Female,10:34 AM,Medium,Debit Card
+Zachary Mitchell,Soccer Event,$24,Eggnog,2024-11-25,38,Female,8:56 AM,Medium,Debit Card
+Christopher Torres,Christmas,$41,IPA,2024-11-18,37,Male,9:02 PM,Large,Mobile Payment
+Adam Thompson,Halloween,$93,Margarita,2024-11-28,38,Female,5:33 PM,Small,Cash
+Samuel Allen,Christmas,$27,Eggnog,2024-11-17,34,Female,9:14 AM,Large,Cash
+Matthew Harris,Soccer Event,$81,Lager,2024-11-19,38,Female,9:08 PM,Small,Debit Card
+William Cox,Soccer Event,$36,Bloody Mary,2024-11-17,38,Male,9:34 PM,Medium,Mobile Payment
+Jordan Cooper,Soccer Event,$38,Pilsner,2024-12-07,23,Male,10:32 PM,Medium,Mobile Payment
+Patrick Rogers,Halloween,$49,Hot Toddy,2024-12-05,28,Male,8:38 AM,Large,Credit Card
+Jordan Cooper,Christmas,$51,Margarita,2024-11-02,37,Female,8:25 AM,Large,Debit Card
+Chris Evans,Halloween,$43,Mulled Wine,2024-12-14,25,Male,6:20 PM,Medium,Debit Card
+Gabriel Parker,Christmas,$29,Pilsner,2024-11-18,35,Male,10:45 AM,Large,Debit Card
+Joseph Hill,Christmas,$81,Old Fashioned,2024-12-13,32,Female,9:27 AM,Small,Mobile Payment
+Jonathan Jenkins,Christmas,$64,IPA,2024-11-19,40,Female,7:37 PM,Large,Debit Card
+Dylan Roberts,Christmas,$91,Lager,2024-11-18,30,Female,7:35 PM,Medium,Mobile Payment
+Anthony Morgan,Soccer Event,$74,Margarita,2024-12-04,41,Female,5:18 PM,Medium,Debit Card
+Oliver Stewart,Halloween,$75,Lager,2024-12-25,36,Female,9:51 AM,Small,Mobile Payment
+Sean Foster,Christmas,$39,Whiskey Sour,2024-11-12,27,Female,5:09 AM,Medium,Cash
+Alex Johnson,Soccer Event,$49,Pilsner,2024-12-16,33,Male,9:39 PM,Large,Mobile Payment
+Kevin White,Soccer Event,$57,Hot Toddy,2024-11-24,23,Male,6:17 PM,Medium,Mobile Payment
+Alex Johnson,Halloween,$51,Mulled Wine,2024-12-24,42,Male,5:09 PM,Large,Cash
+Luke Wright,Soccer Event,$84,Pilsner,2024-11-03,41,Female,6:16 AM,Medium,Debit Card
+Anthony Morgan,Soccer Event,$23,Margarita,2024-11-16,21,Female,10:23 AM,Small,Debit Card
+Anthony Morgan,Christmas,$86,IPA,2024-11-26,31,Female,5:22 AM,Small,Debit Card
+Patrick Rogers,Halloween,$34,Hot Toddy,2024-11-02,26,Male,7:03 PM,Large,Cash
+Gabriel Parker,Soccer Event,$59,Margarita,2024-12-22,44,Male,11:10 AM,Large,Debit Card
+Jonathan Jenkins,Soccer Event,$28,Bloody Mary,2024-12-09,24,Male,10:21 PM,Large,Cash
+Daniel Miller,Soccer Event,$26,Margarita,2024-11-17,39,Female,7:10 PM,Large,Mobile Payment
+Justin Moore,Soccer Event,$68,Bloody Mary,2024-11-08,39,Male,8:54 PM,Small,Credit Card
+Aaron Richardson,Halloween,$53,Lager,2024-11-03,28,Male,5:14 AM,Medium,Debit Card
+Aaron Richardson,Christmas,$62,Margarita,2024-12-03,44,Male,9:23 PM,Medium,Debit Card
+Joseph Hill,Soccer Event,$72,Hot Toddy,2024-12-17,34,Male,10:29 AM,Small,Mobile Payment
+Oliver Stewart,Halloween,$79,Mulled Wine,2024-11-22,30,Male,6:36 AM,Large,Credit Card
+Henry Perez,Soccer Event,$44,IPA,2024-12-15,43,Male,8:42 PM,Large,Credit Card
+Jason Clark,Halloween,$86,Hot Toddy,2024-11-12,21,Male,7:07 PM,Small,Cash
+Evan Powell,Christmas,$94,Eggnog,2024-11-15,41,Male,11:19 AM,Large,Debit Card
+James Taylor,Soccer Event,$31,IPA,2024-11-22,21,Male,5:21 AM,Small,Credit Card
+Alex Johnson,Soccer Event,$68,IPA,2024-11-28,26,Male,8:22 AM,Large,Credit Card
+Christopher Torres,Soccer Event,$86,Margarita,2024-11-16,29,Female,5:34 AM,Large,Credit Card
+Benjamin Walker,Halloween,$63,Whiskey Sour,2024-12-17,44,Female,6:26 PM,Large,Credit Card
+Sean Foster,Christmas,$31,Hot Toddy,2024-11-09,43,Male,5:22 AM,Medium,Debit Card
+Luke Wright,Christmas,$96,Eggnog,2024-12-02,36,Female,6:38 AM,Small,Cash
+Charles Reed,Halloween,$73,Bloody Mary,2024-12-04,33,Male,11:31 AM,Medium,Cash
+William Cox,Soccer Event,$80,Lager,2024-11-06,26,Male,8:33 AM,Small,Credit Card
+Thomas Morris,Halloween,$61,Mulled Wine,2024-12-07,40,Female,11:09 AM,Large,Credit Card
+Liam Adams,Soccer Event,$38,Old Fashioned,2024-12-02,27,Female,10:59 AM,Large,Cash
+Chris Evans,Soccer Event,$94,Pilsner,2024-11-04,35,Male,8:15 PM,Medium,Mobile Payment
+Jack Baker,Halloween,$37,Eggnog,2024-11-13,22,Female,11:08 AM,Large,Debit Card
+Ethan Green,Soccer Event,$92,Mulled Wine,2024-12-10,33,Male,10:40 AM,Medium,Debit Card
+Alexander Ramirez,Halloween,$92,Bloody Mary,2024-11-02,42,Male,8:40 AM,Medium,Cash
+Dylan Roberts,Halloween,$95,Lager,2024-11-09,40,Female,11:19 PM,Small,Cash
+Chris Evans,Christmas,$54,IPA,2024-11-11,27,Male,10:37 PM,Small,Mobile Payment
+Liam Adams,Soccer Event,$40,Hot Toddy,2024-11-04,44,Male,10:38 AM,Medium,Debit Card
+Kevin White,Christmas,$72,IPA,2024-12-17,36,Male,10:53 AM,Large,Mobile Payment
+Nathan Brooks,Soccer Event,$33,Mulled Wine,2024-11-04,32,Male,6:37 AM,Small,Cash
+Mark Scott,Halloween,$53,IPA,2024-11-10,29,Male,8:21 AM,Small,Cash
+Kevin White,Soccer Event,$70,Whiskey Sour,2024-11-08,29,Female,8:58 PM,Large,Credit Card
+Christopher Torres,Halloween,$39,Bloody Mary,2024-12-04,36,Female,10:02 AM,Large,Credit Card
+David Brown,Halloween,$87,IPA,2024-12-07,30,Male,7:46 AM,Large,Cash
+Liam Adams,Christmas,$49,Pilsner,2024-12-11,31,Female,11:19 AM,Medium,Cash
+Jack Baker,Halloween,$23,Lager,2024-11-08,42,Female,9:02 AM,Large,Cash
+Charles Reed,Christmas,$65,Old Fashioned,2024-11-04,22,Female,9:06 AM,Small,Debit Card
+Benjamin Walker,Halloween,$63,Lager,2024-11-07,37,Female,9:10 AM,Large,Cash
+Zachary Mitchell,Christmas,$63,Whiskey Sour,2024-11-08,35,Male,11:09 AM,Small,Debit Card
+Jacob Thomas,Soccer Event,$25,Whiskey Sour,2024-11-22,41,Male,6:28 PM,Large,Credit Card
+Adam Thompson,Halloween,$61,Old Fashioned,2024-12-11,34,Female,6:33 PM,Small,Cash
+Samuel Allen,Christmas,$52,Bloody Mary,2024-12-08,43,Female,9:42 AM,Medium,Credit Card
+Henry Perez,Christmas,$81,IPA,2024-11-27,22,Male,6:37 AM,Medium,Debit Card
+Jonathan Jenkins,Soccer Event,$85,Lager,2024-11-22,36,Male,10:33 PM,Large,Credit Card
+Anthony Morgan,Christmas,$72,Pilsner,2024-12-09,30,Female,9:47 AM,Medium,Credit Card
+Gabriel Parker,Halloween,$52,Eggnog,2024-12-20,30,Male,6:05 PM,Large,Debit Card
+Nathan Brooks,Halloween,$91,Pilsner,2024-12-08,37,Male,10:54 PM,Small,Mobile Payment
+Brandon Sanders,Christmas,$29,Lager,2024-12-06,35,Female,8:55 PM,Small,Mobile Payment
+Jack Baker,Christmas,$47,Mulled Wine,2024-12-19,39,Male,8:17 AM,Small,Debit Card
+Paul King,Soccer Event,$43,Lager,2024-11-10,45,Female,9:30 PM,Small,Credit Card
+Adam Thompson,Soccer Event,$29,Eggnog,2024-11-13,27,Female,8:01 AM,Medium,Debit Card
+Benjamin Walker,Halloween,$99,Mulled Wine,2024-11-25,24,Male,11:06 AM,Medium,Credit Card
+Jordan Cooper,Halloween,$57,Eggnog,2024-12-13,28,Male,8:35 AM,Small,Mobile Payment
+Ethan Green,Halloween,$36,Whiskey Sour,2024-12-09,28,Female,5:33 AM,Medium,Credit Card
+Daniel Miller,Halloween,$55,IPA,2024-12-19,43,Male,11:10 AM,Large,Mobile Payment
+Thomas Morris,Soccer Event,$20,Whiskey Sour,2024-11-23,36,Female,11:58 PM,Small,Credit Card
+Kevin White,Christmas,$88,Bloody Mary,2024-11-01,22,Female,10:33 PM,Large,Credit Card
+Brandon Sanders,Soccer Event,$23,Whiskey Sour,2024-12-21,22,Female,5:37 PM,Large,Debit Card
+David Brown,Christmas,$47,Margarita,2024-12-21,25,Male,5:07 PM,Medium,Mobile Payment
+Joshua Nelson,Christmas,$59,Bloody Mary,2024-12-01,45,Female,7:07 PM,Large,Debit Card
+William Cox,Christmas,$45,IPA,2024-11-14,26,Female,9:24 PM,Small,Credit Card
+Adam Thompson,Soccer Event,$29,IPA,2024-11-22,21,Male,7:09 PM,Large,Mobile Payment
+Henry Perez,Christmas,$60,Whiskey Sour,2024-12-10,44,Female,9:21 PM,Medium,Mobile Payment
+Tyler Ward,Halloween,$99,Mulled Wine,2024-12-07,31,Male,6:06 AM,Medium,Credit Card
+Steven Gray,Halloween,$69,Margarita,2024-11-25,36,Female,6:43 AM,Small,Credit Card
+Isaac Turner,Halloween,$53,Bloody Mary,2024-11-23,33,Female,7:53 PM,Large,Mobile Payment
+David Brown,Soccer Event,$34,Lager,2024-12-22,34,Male,5:54 PM,Small,Credit Card
+Dylan Roberts,Soccer Event,$32,Eggnog,2024-11-04,31,Male,5:30 AM,Medium,Credit Card
+Zachary Mitchell,Soccer Event,$37,Lager,2024-11-01,24,Female,9:03 AM,Small,Cash
+Kevin White,Christmas,$80,Margarita,2024-12-04,27,Female,6:33 AM,Medium,Mobile Payment
+Christopher Torres,Soccer Event,$63,Mulled Wine,2024-12-03,41,Female,5:26 PM,Large,Debit Card
+Henry Perez,Soccer Event,$75,Hot Toddy,2024-11-30,27,Male,9:39 AM,Large,Credit Card
+Charles Reed,Soccer Event,$23,Whiskey Sour,2024-11-29,33,Female,6:58 AM,Large,Debit Card
+Alexander Ramirez,Christmas,$98,Margarita,2024-11-08,44,Male,7:49 AM,Large,Credit Card
+Kevin White,Halloween,$92,Mulled Wine,2024-12-16,42,Female,11:34 AM,Medium,Cash
+Daniel Miller,Soccer Event,$61,Old Fashioned,2024-12-14,39,Female,11:21 AM,Small,Debit Card
+Charles Reed,Halloween,$53,Bloody Mary,2024-12-01,31,Male,8:18 AM,Small,Mobile Payment
+Jacob Thomas,Christmas,$76,Pilsner,2024-11-12,32,Female,8:12 AM,Large,Credit Card
+Nicholas Russell,Halloween,$74,Hot Toddy,2024-11-04,23,Male,6:36 PM,Small,Debit Card
+Zachary Mitchell,Soccer Event,$23,Eggnog,2024-12-25,44,Male,8:18 AM,Medium,Credit Card
+David Brown,Christmas,$79,Pilsner,2024-11-19,45,Female,7:11 PM,Medium,Cash
+Gabriel Parker,Soccer Event,$24,Whiskey Sour,2024-11-04,45,Female,11:54 PM,Large,Mobile Payment
+David Brown,Christmas,$38,Eggnog,2024-11-24,38,Female,8:36 AM,Large,Cash
+Jason Clark,Christmas,$30,Bloody Mary,2024-12-17,36,Female,9:59 PM,Small,Mobile Payment
+Kevin White,Halloween,$75,Lager,2024-11-20,29,Female,8:16 PM,Medium,Cash
+James Taylor,Halloween,$65,Margarita,2024-12-15,35,Female,11:49 AM,Small,Credit Card
+Joshua Nelson,Christmas,$36,Old Fashioned,2024-11-21,28,Female,8:37 AM,Small,Mobile Payment
+Oliver Stewart,Soccer Event,$48,Whiskey Sour,2024-12-14,23,Male,5:13 AM,Large,Mobile Payment
+Zachary Mitchell,Halloween,$84,Margarita,2024-12-07,32,Female,11:18 AM,Small,Mobile Payment
+Jordan Cooper,Soccer Event,$90,Whiskey Sour,2024-12-13,25,Female,7:40 AM,Medium,Cash
+Zachary Mitchell,Halloween,$48,Eggnog,2024-12-10,23,Male,7:23 AM,Small,Cash
+Jack Baker,Soccer Event,$37,Margarita,2024-12-19,36,Male,10:16 AM,Large,Credit Card
+Jason Clark,Christmas,$81,Lager,2024-12-22,21,Female,8:10 AM,Large,Credit Card
+Luke Wright,Christmas,$50,Lager,2024-11-23,34,Male,7:11 AM,Large,Mobile Payment
+Adam Thompson,Soccer Event,$94,Margarita,2024-12-19,35,Female,7:23 AM,Small,Cash
+Zachary Mitchell,Christmas,$34,Pilsner,2024-12-10,25,Male,10:48 AM,Medium,Credit Card
+John Smith,Christmas,$53,Mulled Wine,2024-11-21,36,Female,8:15 PM,Medium,Cash
+Jordan Cooper,Soccer Event,$62,Margarita,2024-12-15,27,Male,6:44 PM,Small,Debit Card
+Thomas Morris,Soccer Event,$60,IPA,2024-12-04,23,Female,7:16 AM,Medium,Debit Card
+Henry Perez,Christmas,$24,IPA,2024-11-10,38,Female,5:15 PM,Medium,Mobile Payment
+Jonathan Jenkins,Halloween,$23,Old Fashioned,2024-11-18,44,Female,10:27 AM,Small,Debit Card
+Paul King,Halloween,$81,Hot Toddy,2024-11-19,23,Male,8:41 AM,Large,Credit Card
+Liam Adams,Halloween,$58,Bloody Mary,2024-12-18,30,Male,5:49 AM,Medium,Debit Card
+James Taylor,Soccer Event,$37,Lager,2024-11-18,44,Female,10:08 AM,Medium,Credit Card
+Jonathan Jenkins,Halloween,$73,Hot Toddy,2024-11-23,26,Female,8:00 AM,Medium,Mobile Payment
+Liam Adams,Soccer Event,$43,Pilsner,2024-12-21,39,Male,11:26 PM,Medium,Cash
+Jacob Thomas,Halloween,$100,IPA,2024-11-11,38,Female,7:18 PM,Medium,Debit Card
+John Smith,Soccer Event,$68,Eggnog,2024-12-23,35,Male,5:29 AM,Large,Credit Card
+Christopher Torres,Halloween,$35,Mulled Wine,2024-12-21,43,Female,7:51 AM,Small,Debit Card
+Kevin White,Christmas,$69,Whiskey Sour,2024-12-25,32,Female,6:54 AM,Large,Credit Card
+Steven Gray,Halloween,$40,Eggnog,2024-12-05,24,Female,11:08 AM,Small,Credit Card
+Daniel Miller,Soccer Event,$87,Old Fashioned,2024-11-25,27,Female,8:25 AM,Large,Cash
+Thomas Morris,Christmas,$51,IPA,2024-11-19,37,Female,5:23 PM,Small,Mobile Payment
+Luke Wright,Halloween,$79,Mulled Wine,2024-11-09,36,Male,5:48 PM,Small,Cash
+Jason Clark,Christmas,$96,Mulled Wine,2024-12-25,33,Female,7:55 PM,Small,Credit Card
+Justin Moore,Soccer Event,$50,Margarita,2024-11-10,27,Male,6:20 PM,Small,Debit Card
+Henry Perez,Halloween,$83,Eggnog,2024-11-24,38,Male,5:33 PM,Large,Cash
+Mark Scott,Christmas,$27,Bloody Mary,2024-12-22,35,Female,11:54 PM,Small,Credit Card
+Alex Johnson,Soccer Event,$86,Lager,2024-11-13,43,Female,7:14 PM,Small,Mobile Payment
+Gabriel Parker,Christmas,$42,Mulled Wine,2024-12-13,38,Male,11:24 AM,Large,Mobile Payment
+Matthew Harris,Soccer Event,$61,Whiskey Sour,2024-11-22,25,Female,9:19 PM,Large,Credit Card
+Michael Lee,Soccer Event,$92,Hot Toddy,2024-11-23,43,Female,5:38 AM,Medium,Mobile Payment
+Aaron Richardson,Halloween,$87,Bloody Mary,2024-11-08,38,Female,8:07 AM,Medium,Debit Card
+Sebastian Hughes,Soccer Event,$69,Eggnog,2024-11-09,39,Male,6:30 PM,Medium,Mobile Payment
+Gabriel Parker,Christmas,$39,Mulled Wine,2024-11-19,36,Male,5:47 AM,Large,Credit Card
+Mark Scott,Halloween,$65,IPA,2024-12-04,38,Female,11:36 PM,Small,Mobile Payment
+David Brown,Christmas,$55,Hot Toddy,2024-12-03,42,Female,9:00 PM,Medium,Debit Card
+Charles Reed,Halloween,$32,Lager,2024-12-16,38,Female,11:23 AM,Medium,Debit Card
+David Brown,Halloween,$97,Eggnog,2024-12-11,44,Female,9:19 PM,Medium,Mobile Payment
+James Taylor,Soccer Event,$42,Lager,2024-12-06,40,Female,5:24 PM,Small,Credit Card
+Joseph Hill,Christmas,$56,Whiskey Sour,2024-11-01,30,Female,8:25 AM,Small,Credit Card
+Aaron Richardson,Halloween,$24,Bloody Mary,2024-11-21,45,Male,6:21 PM,Large,Cash
+Alex Johnson,Soccer Event,$54,IPA,2024-12-04,36,Male,10:42 PM,Medium,Credit Card
+Liam Adams,Halloween,$26,Eggnog,2024-11-07,23,Female,9:01 PM,Small,Cash
+Anthony Morgan,Soccer Event,$30,Mulled Wine,2024-11-17,33,Female,11:17 PM,Small,Credit Card
+Justin Moore,Soccer Event,$78,Eggnog,2024-12-06,42,Male,7:04 PM,Large,Mobile Payment
+Ryan Davis,Christmas,$87,Old Fashioned,2024-12-24,26,Male,5:28 PM,Small,Cash
+Ryan Davis,Halloween,$44,Old Fashioned,2024-11-18,22,Female,7:34 PM,Large,Debit Card
+Anthony Morgan,Soccer Event,$59,Mulled Wine,2024-11-12,29,Male,10:18 AM,Medium,Mobile Payment
+Oliver Stewart,Christmas,$40,Mulled Wine,2024-12-15,22,Female,10:27 AM,Large,Debit Card
+Ethan Green,Christmas,$96,Bloody Mary,2024-12-21,36,Male,5:34 AM,Medium,Debit Card
+Samuel Allen,Christmas,$66,Bloody Mary,2024-11-17,40,Female,6:06 AM,Large,Debit Card
+David Brown,Soccer Event,$22,Lager,2024-11-25,42,Female,10:18 PM,Large,Credit Card
+Andrew Young,Soccer Event,$51,Whiskey Sour,2024-11-06,21,Female,6:52 PM,Medium,Mobile Payment
+Justin Moore,Halloween,$80,IPA,2024-11-02,37,Male,10:27 PM,Small,Cash
+Jonathan Jenkins,Halloween,$78,Old Fashioned,2024-11-18,31,Male,5:29 AM,Large,Mobile Payment
+Aaron Richardson,Christmas,$31,IPA,2024-12-12,28,Male,9:55 PM,Large,Credit Card
+Joseph Hill,Christmas,$99,Bloody Mary,2024-12-23,23,Female,11:03 PM,Medium,Debit Card
+William Cox,Soccer Event,$86,Pilsner,2024-12-23,29,Male,9:25 AM,Medium,Debit Card
+Ethan Green,Christmas,$57,Eggnog,2024-11-26,21,Female,9:27 AM,Medium,Credit Card
+Samuel Allen,Christmas,$68,Hot Toddy,2024-12-05,27,Female,8:58 AM,Medium,Credit Card
+Michael Lee,Soccer Event,$20,Lager,2024-11-28,39,Male,11:54 AM,Small,Debit Card
+Hunter Carter,Soccer Event,$38,Lager,2024-12-13,37,Female,11:29 AM,Large,Debit Card
+Jonathan Jenkins,Halloween,$59,Bloody Mary,2024-12-05,37,Female,11:55 PM,Medium,Credit Card
+Luke Wright,Christmas,$93,Whiskey Sour,2024-12-16,27,Female,5:40 PM,Large,Mobile Payment
+Jacob Thomas,Halloween,$71,Old Fashioned,2024-12-16,43,Male,9:54 PM,Large,Mobile Payment
+James Taylor,Halloween,$94,Margarita,2024-11-17,43,Female,6:20 PM,Medium,Debit Card
+Michael Lee,Christmas,$97,Eggnog,2024-11-18,31,Male,6:30 AM,Medium,Debit Card
+Dylan Roberts,Soccer Event,$60,Whiskey Sour,2024-12-18,24,Male,11:44 AM,Medium,Cash
+Christopher Torres,Christmas,$53,Pilsner,2024-12-25,23,Female,9:52 AM,Medium,Credit Card
+Alex Johnson,Halloween,$64,Mulled Wine,2024-11-27,24,Female,9:46 AM,Small,Credit Card
+Jordan Cooper,Halloween,$22,Mulled Wine,2024-11-25,38,Female,9:44 PM,Medium,Mobile Payment
+Brandon Sanders,Soccer Event,$67,Pilsner,2024-12-25,24,Male,10:38 AM,Large,Mobile Payment
+Charles Reed,Halloween,$50,Old Fashioned,2024-12-03,27,Male,9:09 PM,Small,Mobile Payment
+John Smith,Halloween,$24,Pilsner,2024-12-22,26,Female,6:31 AM,Large,Cash
+David Brown,Soccer Event,$30,Eggnog,2024-10-31,35,Male,9:32 PM,Large,Mobile Payment
+Samuel Allen,Soccer Event,$82,Hot Toddy,2024-11-17,42,Female,5:26 PM,Medium,Cash
+David Brown,Halloween,$83,Old Fashioned,2024-11-27,28,Female,5:05 AM,Medium,Credit Card
+Ethan Green,Halloween,$96,Mulled Wine,2024-12-07,38,Female,10:57 PM,Medium,Cash
+Michael Lee,Soccer Event,$75,Bloody Mary,2024-11-02,45,Male,8:29 AM,Small,Debit Card
+Jordan Cooper,Halloween,$62,IPA,2024-11-16,32,Male,8:29 AM,Large,Cash
+Liam Adams,Soccer Event,$66,IPA,2024-12-16,25,Female,8:06 PM,Medium,Mobile Payment
+James Taylor,Soccer Event,$71,Lager,2024-12-06,26,Male,11:49 AM,Large,Mobile Payment
+Justin Moore,Christmas,$40,Margarita,2024-11-21,21,Female,11:30 PM,Large,Debit Card
+Brandon Sanders,Christmas,$26,Whiskey Sour,2024-11-08,41,Female,11:16 PM,Medium,Debit Card
+Chris Evans,Christmas,$26,Hot Toddy,2024-11-19,28,Male,8:06 PM,Small,Mobile Payment
+Matthew Harris,Christmas,$80,Bloody Mary,2024-12-09,29,Male,7:16 AM,Small,Credit Card
+Mark Scott,Christmas,$67,IPA,2024-12-23,36,Male,11:24 PM,Medium,Mobile Payment
+James Taylor,Halloween,$33,Mulled Wine,2024-12-04,41,Male,8:54 AM,Small,Mobile Payment
+John Smith,Christmas,$82,Lager,2024-11-03,36,Female,11:36 AM,Small,Debit Card
+Ethan Green,Soccer Event,$71,IPA,2024-12-18,45,Female,5:17 AM,Medium,Debit Card
+William Cox,Halloween,$37,Pilsner,2024-11-09,36,Female,7:20 PM,Small,Debit Card
+Patrick Rogers,Soccer Event,$32,Lager,2024-11-30,25,Male,11:15 AM,Large,Cash
+Hunter Carter,Soccer Event,$78,Lager,2024-11-03,25,Male,6:58 PM,Medium,Credit Card
+Alex Johnson,Christmas,$62,Whiskey Sour,2024-12-02,32,Female,7:16 PM,Large,Cash
+Alex Johnson,Soccer Event,$97,Eggnog,2024-12-19,25,Female,7:33 PM,Medium,Credit Card
+Nathan Brooks,Halloween,$71,Pilsner,2024-11-25,34,Female,6:25 AM,Large,Cash
+Isaac Turner,Soccer Event,$80,Hot Toddy,2024-12-24,23,Male,11:27 PM,Large,Cash
+William Cox,Christmas,$66,Mulled Wine,2024-11-20,30,Male,5:20 PM,Medium,Mobile Payment
+Kevin White,Halloween,$50,Pilsner,2024-12-19,44,Male,7:04 AM,Small,Credit Card
+Adam Thompson,Soccer Event,$88,Whiskey Sour,2024-12-22,34,Male,7:05 PM,Medium,Mobile Payment
+Michael Lee,Halloween,$84,IPA,2024-12-12,39,Male,6:12 AM,Medium,Debit Card
+Hunter Carter,Halloween,$81,Margarita,2024-12-02,31,Female,8:58 AM,Medium,Debit Card
+Jordan Cooper,Soccer Event,$72,Whiskey Sour,2024-11-14,21,Male,6:46 AM,Large,Mobile Payment
+Robert Wilson,Soccer Event,$82,Old Fashioned,2024-11-20,30,Female,5:49 AM,Large,Cash
+John Smith,Halloween,$59,Whiskey Sour,2024-12-14,36,Male,10:38 PM,Medium,Credit Card
+James Taylor,Christmas,$81,Eggnog,2024-11-02,35,Female,10:13 AM,Small,Debit Card
+Liam Adams,Halloween,$20,Eggnog,2024-11-30,36,Male,5:02 AM,Small,Debit Card
+Ethan Green,Soccer Event,$79,Bloody Mary,2024-11-11,45,Female,6:31 AM,Medium,Mobile Payment
+Jacob Thomas,Christmas,$41,Whiskey Sour,2024-12-24,43,Male,7:53 PM,Medium,Mobile Payment
+James Taylor,Christmas,$26,IPA,2024-12-23,23,Female,8:19 AM,Medium,Mobile Payment
+Mark Scott,Halloween,$70,Old Fashioned,2024-11-18,45,Male,5:07 PM,Medium,Credit Card
+Henry Perez,Christmas,$84,Hot Toddy,2024-11-25,36,Female,9:52 AM,Medium,Debit Card
+Brandon Sanders,Christmas,$50,Bloody Mary,2024-12-06,26,Female,11:59 AM,Medium,Credit Card
+Hunter Carter,Soccer Event,$51,Bloody Mary,2024-12-02,41,Female,10:29 PM,Medium,Credit Card
+Benjamin Walker,Halloween,$89,Pilsner,2024-11-03,37,Female,9:07 PM,Small,Credit Card
+Jordan Cooper,Christmas,$27,Bloody Mary,2024-11-27,38,Male,7:16 AM,Large,Credit Card
+Robert Wilson,Halloween,$88,Old Fashioned,2024-12-11,36,Female,7:17 PM,Medium,Cash
+John Smith,Christmas,$73,Pilsner,2024-12-01,32,Male,6:45 AM,Large,Cash
+Thomas Morris,Christmas,$61,Mulled Wine,2024-11-13,23,Male,5:02 PM,Large,Mobile Payment
+Matthew Harris,Soccer Event,$74,Whiskey Sour,2024-11-17,21,Female,8:02 PM,Medium,Credit Card
+Jason Clark,Christmas,$93,Eggnog,2024-12-21,26,Female,6:39 AM,Small,Mobile Payment
+Alex Johnson,Christmas,$58,Mulled Wine,2024-11-23,45,Male,11:25 PM,Small,Debit Card
+Jacob Thomas,Soccer Event,$75,Whiskey Sour,2024-12-14,31,Female,5:15 AM,Medium,Mobile Payment
+Alexander Ramirez,Halloween,$63,Margarita,2024-11-01,37,Male,9:53 AM,Medium,Debit Card
+Anthony Morgan,Soccer Event,$91,Hot Toddy,2024-11-25,39,Female,10:44 AM,Small,Cash
+Mark Scott,Halloween,$40,Hot Toddy,2024-11-08,41,Male,6:26 AM,Small,Debit Card
+David Brown,Soccer Event,$59,Old Fashioned,2024-11-28,40,Female,7:21 AM,Large,Cash
+Aaron Richardson,Soccer Event,$73,Lager,2024-12-12,24,Female,7:09 PM,Small,Mobile Payment
+Jacob Thomas,Christmas,$57,Pilsner,2024-12-16,31,Male,7:35 AM,Small,Credit Card
+Steven Gray,Soccer Event,$23,Hot Toddy,2024-11-03,23,Female,7:41 AM,Small,Credit Card
+Charles Reed,Halloween,$63,Pilsner,2024-12-03,38,Male,9:56 PM,Large,Cash
+Hunter Carter,Soccer Event,$86,Mulled Wine,2024-11-20,22,Male,6:36 AM,Large,Mobile Payment
+Patrick Rogers,Halloween,$76,Whiskey Sour,2024-12-05,21,Male,9:26 PM,Medium,Mobile Payment
+Jason Clark,Christmas,$89,Mulled Wine,2024-12-18,41,Female,6:45 AM,Large,Mobile Payment
+Nathan Brooks,Soccer Event,$88,Hot Toddy,2024-12-06,45,Female,11:33 PM,Large,Mobile Payment
+Joshua Nelson,Christmas,$99,Hot Toddy,2024-12-07,43,Female,6:52 AM,Medium,Mobile Payment
+Michael Lee,Halloween,$78,IPA,2024-11-26,21,Male,6:39 PM,Small,Credit Card
+Charles Reed,Soccer Event,$33,Whiskey Sour,2024-11-29,42,Female,9:53 AM,Small,Debit Card
+Charles Reed,Christmas,$36,Old Fashioned,2024-11-07,21,Male,9:06 PM,Small,Mobile Payment
+Daniel Miller,Christmas,$28,Bloody Mary,2024-12-10,45,Male,5:59 PM,Large,Debit Card
+Aaron Richardson,Soccer Event,$50,Margarita,2024-11-07,33,Female,9:43 AM,Medium,Debit Card
+Sean Foster,Soccer Event,$26,Bloody Mary,2024-12-14,38,Female,9:55 PM,Small,Mobile Payment
+Tyler Ward,Christmas,$72,Pilsner,2024-11-27,25,Male,6:42 AM,Small,Debit Card
+Aaron Richardson,Christmas,$63,Lager,2024-11-28,23,Male,7:24 AM,Large,Credit Card
+Jason Clark,Soccer Event,$81,Mulled Wine,2024-11-03,44,Male,6:37 AM,Large,Debit Card
+Joshua Nelson,Soccer Event,$28,IPA,2024-11-19,27,Female,11:47 PM,Small,Credit Card
+Evan Powell,Halloween,$67,Old Fashioned,2024-11-28,27,Female,11:50 PM,Small,Credit Card
+Steven Gray,Halloween,$97,Mulled Wine,2024-12-20,44,Female,7:47 PM,Small,Mobile Payment
+Luke Wright,Christmas,$38,Bloody Mary,2024-12-01,26,Female,6:28 PM,Large,Mobile Payment
+Christopher Torres,Soccer Event,$35,Whiskey Sour,2024-12-20,44,Female,11:23 PM,Medium,Mobile Payment
+Henry Perez,Christmas,$51,Bloody Mary,2024-12-21,22,Male,6:34 PM,Large,Debit Card
+Luke Wright,Halloween,$85,Whiskey Sour,2024-12-22,44,Female,10:16 PM,Small,Credit Card
+Jason Clark,Christmas,$78,Bloody Mary,2024-11-22,31,Female,5:41 AM,Small,Credit Card
+Alex Johnson,Halloween,$93,Margarita,2024-11-21,43,Male,6:47 AM,Medium,Cash
+Isaac Turner,Christmas,$92,Lager,2024-11-18,33,Female,10:52 AM,Large,Cash
+Patrick Rogers,Soccer Event,$50,Old Fashioned,2024-12-05,34,Male,10:26 AM,Small,Debit Card
+Benjamin Walker,Christmas,$42,Hot Toddy,2024-11-14,34,Male,7:03 PM,Small,Mobile Payment
+Gabriel Parker,Soccer Event,$30,Eggnog,2024-11-30,42,Female,10:34 AM,Small,Mobile Payment
+Patrick Rogers,Soccer Event,$97,Mulled Wine,2024-12-22,35,Female,5:37 AM,Medium,Credit Card
+William Cox,Christmas,$28,Old Fashioned,2024-11-18,23,Female,8:06 AM,Small,Cash
+Henry Perez,Christmas,$46,Mulled Wine,2024-11-11,23,Male,5:23 PM,Medium,Credit Card
+Jordan Cooper,Halloween,$92,Hot Toddy,2024-11-14,29,Female,5:31 PM,Large,Mobile Payment
+Sebastian Hughes,Halloween,$23,Lager,2024-12-09,24,Female,11:23 AM,Medium,Cash
+Thomas Morris,Christmas,$99,Old Fashioned,2024-12-09,36,Male,5:30 PM,Small,Cash
+Luke Wright,Halloween,$64,Margarita,2024-12-15,28,Female,8:42 PM,Large,Credit Card
+Liam Adams,Halloween,$23,Lager,2024-11-08,39,Male,9:29 PM,Medium,Credit Card
+Adam Thompson,Christmas,$34,Pilsner,2024-12-19,34,Male,7:22 AM,Medium,Credit Card
+Michael Lee,Soccer Event,$65,Lager,2024-12-04,45,Female,11:27 AM,Medium,Mobile Payment
+Chris Evans,Christmas,$65,Eggnog,2024-11-27,34,Female,9:04 PM,Medium,Credit Card
+Hunter Carter,Halloween,$45,Pilsner,2024-11-01,25,Female,7:13 PM,Medium,Credit Card
+Liam Adams,Soccer Event,$44,Eggnog,2024-12-12,31,Male,11:27 AM,Medium,Mobile Payment
+Adam Thompson,Halloween,$29,Lager,2024-12-04,28,Female,9:28 PM,Medium,Credit Card
+Gabriel Parker,Halloween,$63,IPA,2024-12-01,25,Female,5:05 AM,Large,Mobile Payment
+Jordan Cooper,Soccer Event,$61,Margarita,2024-12-01,41,Female,6:54 PM,Large,Credit Card
+Steven Gray,Christmas,$54,IPA,2024-11-18,45,Male,8:59 AM,Medium,Mobile Payment
+Dylan Roberts,Halloween,$81,Lager,2024-11-19,34,Male,6:18 AM,Small,Mobile Payment
+Liam Adams,Christmas,$76,IPA,2024-11-27,40,Female,11:04 PM,Medium,Mobile Payment
+Thomas Morris,Christmas,$55,IPA,2024-11-10,36,Male,6:12 AM,Medium,Mobile Payment
+Alexander Ramirez,Soccer Event,$33,Margarita,2024-11-17,27,Male,9:35 AM,Medium,Debit Card
+Liam Adams,Halloween,$29,Lager,2024-12-25,43,Female,5:27 AM,Large,Debit Card
+Christopher Torres,Christmas,$30,Whiskey Sour,2024-11-20,45,Female,8:26 AM,Small,Debit Card
+Jordan Cooper,Halloween,$62,Bloody Mary,2024-12-09,39,Female,10:15 PM,Small,Credit Card
+Henry Perez,Soccer Event,$26,Mulled Wine,2024-12-11,30,Female,7:52 AM,Small,Debit Card
+Zachary Mitchell,Halloween,$48,Margarita,2024-11-26,33,Female,9:33 PM,Medium,Cash
+Sebastian Hughes,Christmas,$53,IPA,2024-12-15,43,Female,5:15 PM,Medium,Debit Card
+Patrick Rogers,Soccer Event,$25,Whiskey Sour,2024-11-09,21,Male,5:25 AM,Large,Cash
+Evan Powell,Christmas,$53,Hot Toddy,2024-11-20,24,Female,6:56 AM,Small,Credit Card
+Patrick Rogers,Christmas,$32,Margarita,2024-11-08,30,Male,8:17 AM,Medium,Debit Card
+Sean Foster,Christmas,$28,Mulled Wine,2024-11-17,44,Male,8:56 AM,Medium,Debit Card
+Tyler Ward,Soccer Event,$70,Margarita,2024-12-23,24,Female,6:17 AM,Large,Credit Card
+Alexander Ramirez,Christmas,$73,Lager,2024-11-14,34,Female,5:25 PM,Large,Cash
+Henry Perez,Soccer Event,$78,Old Fashioned,2024-11-20,45,Female,9:53 PM,Small,Debit Card
+Anthony Morgan,Soccer Event,$37,IPA,2024-10-31,37,Female,9:41 PM,Large,Cash
+Nicholas Russell,Halloween,$36,Old Fashioned,2024-12-09,29,Female,10:25 PM,Large,Credit Card
+Alex Johnson,Soccer Event,$68,Mulled Wine,2024-11-07,33,Female,7:53 PM,Large,Credit Card
+Patrick Rogers,Christmas,$25,Bloody Mary,2024-12-17,39,Female,5:56 AM,Large,Cash
+Evan Powell,Soccer Event,$43,Mulled Wine,2024-11-14,30,Female,11:42 PM,Large,Cash
+Robert Wilson,Christmas,$31,Old Fashioned,2024-10-31,25,Female,11:24 AM,Large,Debit Card
+Adam Thompson,Christmas,$96,Bloody Mary,2024-12-19,34,Female,8:38 PM,Medium,Cash
+Matthew Harris,Halloween,$95,Mulled Wine,2024-11-22,29,Female,9:44 AM,Medium,Cash
+Anthony Morgan,Halloween,$29,Margarita,2024-12-20,25,Male,5:14 PM,Medium,Mobile Payment
+Samuel Allen,Halloween,$68,Whiskey Sour,2024-11-13,21,Male,5:29 PM,Small,Credit Card
+Benjamin Walker,Christmas,$41,Old Fashioned,2024-11-05,45,Male,7:57 AM,Small,Debit Card
+Andrew Young,Halloween,$86,IPA,2024-11-05,37,Male,7:23 PM,Small,Mobile Payment
+Justin Moore,Soccer Event,$89,IPA,2024-11-07,27,Male,11:55 AM,Small,Mobile Payment
